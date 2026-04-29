@@ -26,12 +26,34 @@ Who am I : https://port-folio-three-lemon-38.vercel.app/
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hic_ham_dh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hicham-ait-douch-647b10359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hichamaitdouch06@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hicham-codeio&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hicham-codeio&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-codeio&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🧠 Tech & Interests
+
+- 🤖 Artificial Intelligence • Machine Learning • AI Agents  
+- 🧠 Natural Language Processing • LLMs • Prompt Engineering  
+- 📊 Data Science • Data Analysis • Data Visualization  
+- ⚙️ Python Development • Automation • Problem Solving  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hicham-codeio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 0 10px 0 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=hicham-codeio&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td style="border: none; padding: 0 0 0 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-codeio&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hicham-codeio&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
