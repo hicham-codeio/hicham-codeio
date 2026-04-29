@@ -51,9 +51,10 @@ Who am I : https://port-folio-three-lemon-38.vercel.app/
     </tr>
   </table>
 </p>
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hicham-codeio&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>-->
+<!-- 
+Proudly created with GPRM ( https://gprm.itsvg.in ) 
+-->
