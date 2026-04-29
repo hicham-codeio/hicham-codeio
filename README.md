@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hicham Ait Douch</h1>
+<h3 align="center">Computer Science Student & AI Developer</h3>
+
+<p align="center">
+  Passionate about Artificial Intelligence, Data Science, and Machine Learning. 
+  I focus on building intelligent systems using NLP and Large Language Models, 
+  with a growing interest in real-world AI applications and problem-solving.
+</p>
 
 <!--
 **hicham-codeio/hicham-codeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-👨‍💻 Computer Science Student & Developer 💻 Languages & Tech: Python | Data Science & AI Engineering Student | Machine Learning  | NLP & LLMs
-
 Who am I : https://port-folio-three-lemon-38.vercel.app/
 
 ## 🌐 Socials:
