@@ -1,60 +1,60 @@
-<h1 align="center">Hi 👋, I'm Hicham Ait Douch</h1>
-<h3 align="center">Computer Science Student & AI Developer</h3>
+ <div align="center">
+  
+# 👋 Hi, I'm Hicham Ait Douch
 
-<p align="center">
-  Passionate about Artificial Intelligence, Data Science, and Machine Learning. 
-  I focus on building intelligent systems using NLP and Large Language Models, 
-  with a growing interest in real-world AI applications and problem-solving.
-</p>
+### 💻 Full-Stack Developer | Software Engineering Student
 
-<!--
-**hicham-codeio/hicham-codeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building modern applications, exploring software architecture, and turning ideas into code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Who am I : https://port-folio-three-lemon-38.vercel.app/
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hic_ham_dh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hicham-ait-douch-647b10359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hichamaitdouch06@gmail.com) 
+<a href="https://port-folio-three-lemon-38.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00D4FF?style=for-the-badge" alt="Portfolio" />
+</a>
+  
+</div>
 
 ---
 
-### 🧠 Tech & Interests
+### 👨‍💻 About Me
 
-- 🤖 Artificial Intelligence • Machine Learning • AI Agents  
-- 🧠 Natural Language Processing • LLMs • Prompt Engineering  
-- 📊 Data Science • Data Analysis • Data Visualization  
-- ⚙️ Python Development • Automation • Problem Solving  
+- 🎓 Computer Science student and Junior Software Engineer
+- 🌱 Focused on Full-Stack Development and Software Architecture
+- 🧩 Interested in UML, system design, and UI/UX with Figma
+- 🛠️ Enjoy building practical projects and learning new technologies
+- 📫 Contact: **hichamaitdouch06@gmail.com**
 
----
+### 🧰 Languages & Technologies
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding: 0 10px 0 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=hicham-codeio&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td style="border: none; padding: 0 0 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-codeio&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</p>
-<!-- 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hicham-codeio&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</div>-->
-<!-- 
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
--->
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,mysql,postgres,mongodb,git,github,docker,linux,figma&perline=6" alt="Technology skills" />
+
+</div>
+
+### 📊 GitHub Overview
+
+<div align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hicham-codeio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-codeio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+### 🤝 Connect With Me
+
+<div align="center">
+  
+<a href="https://github.com/hicham-codeio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/hicham-ait-douch-647b10359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/hic_ham_dh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:hichamaitdouch06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+<div align="center">
+  
+*“Building, learning, and improving — one project at a time.”* 🚀
+
+</div>
