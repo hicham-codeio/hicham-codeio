@@ -1,8 +1,8 @@
  <div align="center">
   
-# 👋 Hi, I'm Hicham Ait Douch
+#  Hi👋, I'm Hicham Ait Douch
 
-### 💻 Full-Stack Developer | Software Engineering Student
+### 💻 Software Engineering Student
 
 Building modern applications, exploring software architecture, and turning ideas into code.
 
